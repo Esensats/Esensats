@@ -1,5 +1,5 @@
-- Software developer
-- CS student
+- Software engineer
+- CS grad
 
 <!---
 Esensats/Esensats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
